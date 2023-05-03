@@ -8,8 +8,7 @@ const Home = () => {
     // const [detail] = useContext(store);
     const [detail,setDetail]=useState([])
     useEffect(()=>{
-     fetch("http://localhost:4005/")
-    // fetch("https://node-blog-3n9c.onrender.com/")
+     fetch("https://node-blog-project-4wrw.onrender.com/")
     .then(res=>(res.json()))
     .then((res)=>setDetail(res))
     },[])

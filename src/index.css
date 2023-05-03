@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: whitesmoke;
 }
 
 code {
@@ -19,9 +20,9 @@ code {
   align-items: center;
 }
 .single__page img{
-  width: 100%;
-  margin: 20px 0;
-  height: 500px;
+  width: 90%;
+  margin: 20px;
+  height: 750px;
   align-items: center;
 }
 
