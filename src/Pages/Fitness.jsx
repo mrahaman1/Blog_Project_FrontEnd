@@ -11,7 +11,7 @@ const Fitness = () => {
     .then(res=>(res.json()))
     .then((res)=>setDetail(res))
     },[])
-    // console.log(detail);
+    
     return (
         <div>
             <h1 style={{ margin: "20px 10%", display: "inline-block" }}>Fitness</h1>

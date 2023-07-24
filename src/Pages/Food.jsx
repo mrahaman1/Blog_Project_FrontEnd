@@ -11,7 +11,7 @@ const Food = () => {
     .then(res=>(res.json()))
     .then((res)=>setDetail(res))
     },[])
-    // console.log(detail);
+    
     return (
         <div>
             <h1 style={{ margin: "20px 10%", display: "inline-block" }}>Food</h1>
