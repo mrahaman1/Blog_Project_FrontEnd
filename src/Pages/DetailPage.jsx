@@ -4,7 +4,6 @@ import SingleBlogPage from './SingleBlogPage'
 import { useNavigate } from 'react-router-dom'
 
 
-
 const DetailPage = () => {
     const Navigate=useNavigate()
     const GoBack=()=>{

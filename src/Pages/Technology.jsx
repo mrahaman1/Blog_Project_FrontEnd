@@ -13,7 +13,7 @@ export const Technology = () => {
     return (
         <div>
             <h1 style={{ margin: "20px 10%", display: "inline-block" }}>Technology</h1>
-            <h1 style={{ margin: "20px 0px 20px 38%", display: "inline-block" }}>Top Posts</h1>
+            <h1 style={{ margin: "10px 5px", display: "inline-block" }}>Top Posts</h1>
 
             <div className="main__container">
                 <div className='rightbar'>

@@ -1,6 +1,7 @@
 import React from 'react'
 import '../App.css'
 
+
 const Header = () => {
   return (
     <>
@@ -9,7 +10,10 @@ const Header = () => {
         <p>The</p>
         <h1>Siren</h1>
       </div>
-    
+      <div>
+     
+      </div>
+      
     </>
   )
 }

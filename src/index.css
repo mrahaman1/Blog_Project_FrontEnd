@@ -73,26 +73,6 @@ img {
   border: none;
 }
 
-.nav {
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-}
-.nav ul {
-  display: flex;
-  justify-content: space-between;
-  list-style-type: none;
-}
-.nav ul li {
-  margin: 10px 60px;
-  text-decoration: none;
-  color: #0d0d0d;
-}
-.nav ul li:hover {
-  font-size: 1.2rem;
-  transition: all 0.2s ease-in-out;
-}
-
 .main__container {
   display: flex;
 }
